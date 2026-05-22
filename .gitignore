@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+models_*/
+*.zip
+*.pkl
+*.npz
+*.bag
+*.db3
+log/
+build/
+install/
